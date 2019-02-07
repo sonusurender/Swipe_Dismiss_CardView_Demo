@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Swipe Dismiss CardView Demo</string>
+    <string name="cardview_text">CardView Text</string>
+</resources>
